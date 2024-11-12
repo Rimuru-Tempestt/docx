@@ -1,4 +1,4 @@
-module github.com/nguyenthenguyen/docx
+module github.com/Rimuru-Tempestt/docx
 
 go 1.21.0
 
